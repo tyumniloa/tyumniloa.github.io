@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tyumniloa.github.io/sitemap/sitemap.txt
